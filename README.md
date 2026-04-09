@@ -14,7 +14,7 @@
 ![Dark Mode](./screenshots/ecoloop-dark-mode.png)
 
 ### 🛒 Sidebar Cart
-![Sidebar](./screenshots/ecoloop-sidebar.png)
+![Sidebar](./screenshots/ecoloop-sidebar.PNG)
 
 ---
 
