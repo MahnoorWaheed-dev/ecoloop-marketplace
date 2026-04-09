@@ -1,72 +1,103 @@
-🌿 Ecoloop Marketplace
+# 🌿 Ecoloop Marketplace
 
-🌐 Live Demo  
-[Click Here to Visit 🚀](https://mahnoorwaheed-dev.github.io/ecoloop-marketplace/)
+🌐 **Live Demo:**  
+👉 [Click Here to Visit 🚀](https://mahnoorwaheed-dev.github.io/ecoloop-marketplace/)
 
-📸 Preview
+---
 
-🌞 Light Mode
+## 📸 Preview
+
+### 🌞 Light Mode
 ![Light Mode](./screenshots/ecoloop-light-mode.png)
 
-🌙 Dark Mode
+### 🌙 Dark Mode
 ![Dark Mode](./screenshots/ecoloop-dark-mode.png)
 
-🛒 Sidebar Cart
+### 🛒 Sidebar Cart
 ![Sidebar](./screenshots/ecoloop-sidebar.png)
 
+---
 
-🧾 Overview
+## 🧾 Overview
 
-Ecoloop Marketplace is a modern, interactive eCommerce web application focused on showcasing categorized products with a smooth and engaging user experience.
+**Ecoloop Marketplace** is a modern and interactive eCommerce web application designed to deliver a smooth and engaging shopping experience.
 
-It is designed with a clean UI, responsive layout, and dynamic functionality to simulate a real-world shopping interface.
+It features a clean UI, responsive layout, and dynamic functionalities that simulate a real-world marketplace environment.
 
-✨ Key Features
-🛍️ Dynamic Product Listing
-Products are displayed in an organized layout with real-time updates.
-📂 Category Filtering
-Easily filter products by categories such as:
-Fashion
-Home
-Tech
-🔍 Product Search
-Instantly find products using the search functionality.
-🧮 Smart Sidebar Cart
-Automatically adds selected products
-Displays items one by one in the sidebar
-Shows total price dynamically
-🌗 Light & Dark Mode
-Seamless theme switching for better user experience.
-📱 Responsive Design
-Fully optimized for:
-Mobile
-Tablet
-Desktop
-🛠️ Tech Stack
-HTML5
-CSS3
-JavaScript (Vanilla)
-🚀 How It Works
-Browse products from different categories
-Use filters or search to quickly find items
-Add products — they appear instantly in the sidebar
-Track your total amount in real-time
-Switch between light and dark mode for a personalized experience
-🎯 Purpose
+---
 
-This project demonstrates strong frontend development skills including:
+## ✨ Key Features
 
-UI/UX design
-DOM manipulation
-State handling (cart logic)
-Responsive layouts
-Interactive features
-📌 Future Improvements
-Payment integration
-User authentication
-Backend/database support
-Wishlist feature
-💡 Author
+### 🛍️ Dynamic Product Listing
+- Products displayed in a structured and clean layout  
+- Real-time UI updates  
 
-Mahnoor Waheed
-Frontend Developer
+### 📂 Category Filtering
+- Filter products by:
+  - Fashion  
+  - Home  
+  - Tech  
+
+### 🔍 Product Search
+- Instantly search and find products  
+
+### 🧮 Smart Sidebar Cart
+- Products added dynamically  
+- Items appear one by one in sidebar  
+- Real-time total price calculation  
+
+### 🌗 Light & Dark Mode
+- Smooth theme switching  
+- Better user experience  
+
+### 📱 Responsive Design
+- Fully optimized for:
+  - Mobile  
+  - Tablet  
+  - Desktop  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+
+---
+
+## 🚀 How It Works
+
+1. Browse products from different categories  
+2. Use filters or search to find items quickly  
+3. Add products to cart → sidebar updates instantly  
+4. View total price in real-time  
+5. Toggle between light and dark mode  
+
+---
+
+## 🎯 Purpose
+
+This project highlights strong frontend development skills:
+
+- UI/UX Design  
+- DOM Manipulation  
+- Cart Logic Handling  
+- Responsive Layouts  
+- Interactive Features  
+
+---
+
+## 📌 Future Improvements
+
+- 💳 Payment Integration  
+- 🔐 User Authentication  
+- 🗄️ Backend / Database Support  
+- ❤️ Wishlist Feature  
+
+---
+
+## 💡 Author
+
+**Mahnoor Waheed**  
+Frontend Developer 🚀
